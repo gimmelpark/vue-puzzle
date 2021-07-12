@@ -1,0 +1,42 @@
+
+// field
+$line-color: #444444;
+$toll-line-color: #000000;
+$field-bg-color: #ffffff;
+
+// points
+$point-color: #383838;
+$point-icon-color: #696969;
+$control-color: #575757;
+$control-icon-color: #7a7a7a;
+$control-view-zero: #afafaf;
+
+// numbers
+$num-bg-color: #f3f3f3;
+$num-done-color:  $num-bg-color;
+$num-err-color: $num-bg-color;
+$num-text-color: $toll-line-color;
+$num-line-color: #444444;
+$num-toll-line-color: $toll-line-color;
+$num-icon-done: #19990d;
+$num-icon-error: #D32F2F;
+
+// progress
+$progress-error: #D32F2F;
+$progress-done: #43A047;
+
+// control
+$control-bg: $num-bg-color;
+$control-pointer-type: #707070;
+$control-pointer-type-active: #363636;
+
+
+
+
+
+
+
+* {
+    box-sizing: content-box;
+    line-height: normal;
+}
