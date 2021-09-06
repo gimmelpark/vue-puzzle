@@ -153,8 +153,8 @@ export default {
 	}
 
 	.v-progress-circular .progress-icon {
-		height: 30%;
-		width: 30%;
+		height: 100%;
+		width: 100%;
 	}
 
 	.v-progress-circular.circle-error{
